@@ -1,0 +1,12 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\bin\Debug\net5.0\MySettings.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\bin\Debug\net5.0\MySettings.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\bin\Debug\net5.0\ref\MySettings.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\bin\Debug\net5.0\MySettings.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\ref\MySettings.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_RESOURCES\MySettings\obj\Debug\net5.0\MySettings.pdb
